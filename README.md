@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shreyas A S
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning [Drupal](https://github.com/drupal/) and [Tripal](https://github.com/tripal/).
+- 📫 Reach me on [LinkedIn](https://in.linkedin.com/in/shreyas-as)
 
 <!---
 shreyas-a-s/shreyas-a-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
