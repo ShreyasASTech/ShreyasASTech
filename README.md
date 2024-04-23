@@ -18,4 +18,4 @@ print(shreyas)
 ```
 
 # Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=git,neovim,vim,linux,bash,aws,md,html,css,js,python,c,php&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=git,neovim,vim,linux,bash,aws,md,html,css,js,python,c,php&theme=dark&perline=8)
