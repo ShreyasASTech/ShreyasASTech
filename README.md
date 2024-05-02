@@ -18,4 +18,8 @@ print(shreyas)
 ```
 
 # Tech Stack
-![Tech Stack](https://skillicons.dev/icons?i=git,neovim,vim,linux,bash,aws,md,html,css,js,python,c,php&theme=dark&perline=8)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shreyas-a-s/shreyas-a-s/blob/7456db2fddfea17a9c103a805fd7644186a2d04a/tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/shreyas-a-s/shreyas-a-s/blob/7456db2fddfea17a9c103a805fd7644186a2d04a/tech-stack-light.svg">
+  <img alt="Shows my tech stack in dark mode and light mode." src="https://github.com/shreyas-a-s/shreyas-a-s/blob/7456db2fddfea17a9c103a805fd7644186a2d04a/tech-stack-light.svg">
+</picture>
