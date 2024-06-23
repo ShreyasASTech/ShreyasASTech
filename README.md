@@ -18,41 +18,16 @@ print(shreyas)
 ```
 
 ## Languages
-<!--- https://skillicons.dev/icons?i=bash,lua,python,c,js,php,postgres&theme=dark&perline=8 --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/languages-light.svg">
-  <img src="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/languages-light.svg">
-</picture>
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,c,js,php,postgres&theme=auto&perline=8)
 
 ## Technologies & Frameworks
-<!--- https://skillicons.dev/icons?i=html,css,md,aws&theme=dark&perline=8 --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tech-and-frameworks-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tech-and-frameworks-light.svg">
-  <img src="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tech-and-frameworks-light.svg">
-</picture>
+![Technologies & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,md,aws&theme=auto&perline=8)
 
 ## Tools
-<!--- https://skillicons.dev/icons?i=git,github,gitlab,obsidian,discord&theme=dark&perline=8 --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tools-light.svg">
-  <img src="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/tools-light.svg">
-</picture>
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,obsidian,discord&theme=auto&perline=8)
 
 ## IDE
-<!--- https://skillicons.dev/icons?i=vscode,vscodium,neovim,vim&theme=dark&perline=8 --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/ide-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/ide-light.svg">
-  <img src="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/ide-light.svg">
-</picture>
+![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,vscodium,neovim,vim&theme=auto&perline=8)
 
 ## OS
-<!--- https://skillicons.dev/icons?i=linux,debian,nix,redhat,ubuntu,mint,arch,windows&theme=dark&perline=8 --->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/os-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/os-light.svg">
-  <img src="https://raw.githubusercontent.com/shreyas-a-s/shreyas-a-s/main/assets/os-light.svg">
-</picture>
+![OS](https://go-skill-icons.vercel.app/api/icons?i=linux,debian,nix,redhat,ubuntu,mint,arch,windows&theme=auto&perline=8)
