@@ -6,7 +6,7 @@ class Shreyas:
         self.name = "Shreyas"
         self.age = 22
         self.interests = ["coding", "reading", "learning", "linux", "tweaking the dev environment"]
-        self.skills = [ "Linux Administration", "Bash", "Python", "Web dev", "JavaScript", "C"]
+        self.skills = [ "Linux Administration", "Bash", "Python", "Web dev", "React", "JavaScript", "C"]
 
     def __str__(self):
         return f"👋 Hey, I'm {self.name}!\n\n I'm {self.age} years old and passionate about {', '.join(self.interests)}.\n\n💻 My skills include {', '.join(self.skills)}.\n\nLet's connect and build something amazing together!"
@@ -18,7 +18,7 @@ print(shreyas)
 ```
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,c,js,php,postgres&theme=auto&perline=8)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,c,react,js,php,postgres&theme=auto&perline=8)
 
 ## Technologies & Frameworks
 ![Technologies & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,md,aws&theme=auto&perline=8)
