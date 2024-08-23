@@ -1,20 +1,34 @@
 # Hi, I'm Shreyas 👋
 
-```python
-class Shreyas:
-    def __init__(self):
-        self.name = "Shreyas"
-        self.age = 22
-        self.interests = ["coding", "reading", "learning", "linux", "tweaking the dev environment"]
-        self.skills = [ "Linux Administration", "Bash", "Python", "Web dev", "Low Code", "Thunkable", "Mobile Development", "React", "Dart", "JavaScript", "C"]
+```dart
+class MyInfo {
+  String name;
+  int age;
+  List<String> interests;
+  List<String> skills;
 
-    def __str__(self):
-        return f"👋 Hey, I'm {self.name}!\n\n I'm {self.age} years old and passionate about {', '.join(self.interests)}.\n\n💻 My skills include {', '.join(self.skills)}.\n\nLet's connect and build something amazing together!"
+  MyInfo({
+    required this.name,
+    required this.age,
+    required this.interests,
+    required this.skills,
+  });
 
-shreyas = Shreyas()
+  @override
+  String toString() {
+    return "👋 Hey, I'm $name!\n\nI'm $age years old and passionate about ${interests.join(', ')}.\n\n💻 My skills include ${skills.join(', ')}.\n\nLet's connect and build something amazing together!";
+  }
+}
 
-print(shreyas)
-
+void main() {
+  var myInfo = MyInfo(
+    name: "Shreyas",
+    age: 22,
+    interests: ["coding", "reading", "learning", "linux", "tweaking the dev environment"],
+    skills: ["Linux Administration", "Bash", "Python", "Web dev", "Low Code", "Thunkable", "Mobile Development", "React", "Dart", "JavaScript", "C"],
+  );
+  print(myInfo);
+}
 ```
 
 ## Languages
