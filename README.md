@@ -25,14 +25,14 @@ void main() {
     name: "Shreyas",
     age: 22,
     interests: ["coding", "reading", "learning", "linux", "tweaking the dev environment"],
-    skills: ["Linux Administration", "Bash", "Python", "Web dev", "Low Code", "Thunkable", "Mobile Development", "React", "Dart", "JavaScript", "C"],
+    skills: ["Linux Administration", "Bash", "Python", "Web dev", "Low Code", "Thunkable", "Mobile Development", "React", "Vite", "Dart", "JavaScript", "C"],
   );
   print(myInfo);
 }
 ```
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,dart,flutter,c,react,js,php,postgres&theme=auto&perline=8)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,dart,flutter,c,react,js,vite,php,postgres&theme=auto&perline=8)
 
 ## Technologies & Frameworks
 ![Technologies & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,md,aws&theme=auto&perline=8)
