@@ -32,7 +32,7 @@ void main() {
 ```
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,dart,flutter,c,react,js,vite,php,postgres&theme=auto&perline=8)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,lua,python,dart,flutter,c,react,js,jquery,vite,php,postgres&theme=auto&perline=8)
 
 ## Technologies & Frameworks
 ![Technologies & Frameworks](https://go-skill-icons.vercel.app/api/icons?i=html,css,md,aws&theme=auto&perline=8)
